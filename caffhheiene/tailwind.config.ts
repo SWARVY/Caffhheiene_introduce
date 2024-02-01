@@ -7,11 +7,14 @@ const config: Config = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    fontFamily: {
+      Pretendard_Rg: ['Pretendard_Rg', 'sans-serif'],
+      Magnolia: ['Magnolia', 'sans-serif'],
+    },
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      colors: {
+        background_dark: '#1E1E1E',
+        background_component: '#2B2B2B',
       },
     },
   },
