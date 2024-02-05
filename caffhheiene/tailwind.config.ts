@@ -10,6 +10,7 @@ const config: Config = {
     fontFamily: {
       Pretendard_Rg: ['Pretendard_Rg', 'sans-serif'],
       Magnolia: ['Magnolia', 'sans-serif'],
+      Gyeonggi_Rg: ['Gyeonggi_Rg', 'sans-serif'],
     },
     extend: {
       colors: {

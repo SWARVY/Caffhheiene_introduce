@@ -7,3 +7,8 @@
   font-family: 'Magnolia';
   src: url('Magnolia\ Script.otf');
 }
+
+@font-face {
+  font-family: 'Gyeonggi_Rg';
+  src: url('경기천년바탕_Regular.ttf');
+}
