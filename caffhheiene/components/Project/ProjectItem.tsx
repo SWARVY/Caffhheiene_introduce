@@ -11,8 +11,8 @@ export default function ProjectItem({
   //   techStacks,
 }: ProjectInfo) {
   return (
-    <li className="flex-col">
-      <h3 className="text-4xl underline underline-offset-4">
+    <li className="flex-col space-y-2">
+      <h3 className="text-4xl underline underline-offset-8">
         <Link href={url.href}>{name}</Link>
       </h3>
       <div className="flex items-center gap-x-2">

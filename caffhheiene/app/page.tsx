@@ -19,7 +19,7 @@ export default function Home() {
           <HeroSection />
         </div>
       </div>
-      <div className="grid lg:grid-cols-4">
+      <div className="grid lg:grid-cols-4 font-Gyeonggi_Rg">
         <div className="invisible lg:visible">
           <SidebarToc />
         </div>
