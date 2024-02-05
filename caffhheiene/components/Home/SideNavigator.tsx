@@ -4,7 +4,7 @@ import NavigatorLink from './NavigatorLink'
 
 export default function SideNaviagtor() {
   return (
-    <nav className="grid h-screen w-full z-50 justify-items-center items-center gap-10 p-4 bg-background_dark ">
+    <nav className="grid h-screen w-screen lg:w-full z-50 justify-items-center items-center gap-10 p-4 bg-background_dark ">
       <div className="flex-col h-fit items-center justify-center">
         <LogoSVG className="w-full fill-white shadow-md" />
         <ul className="p-4 space-y-10">
