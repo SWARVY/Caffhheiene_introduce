@@ -33,7 +33,7 @@ export const PROJECT_LIST: ProjectInfo[] = [
     techStacks: ['nextjs', 'recoil', 'tailwindcss', 'typescript'],
   },
   {
-    name: '우테코 프리코스 커뮤니티 채널 관리 봇',
+    name: '프리코스 커뮤니티 채널 관리 봇',
     url: new URL('https://github.com/woowacourse-bot'),
     date: '2023. 11. ~ 2023. 12.',
     descriptions: [],
